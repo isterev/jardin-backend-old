@@ -1,7 +1,7 @@
 {
   "name": "jardin-backend",
   "version": "1.0.0",
-  "description": "Jardin backend",
+  "description": "Jardin Backend",
   "main": "index.js",
   "private": true,
   "license": "MIT",

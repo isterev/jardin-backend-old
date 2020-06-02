@@ -28,7 +28,7 @@ api.get('/', (req, res) => {
 
 // API routes
 api.use('/auth'  , auth);
-api.use('/marketOffer', marketOffer);
+api.use('/marketOffers', marketOffer);
 
 
 module.exports = api;
