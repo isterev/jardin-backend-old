@@ -4,7 +4,7 @@ const express  = require('express');
 const router   = express.Router();
 
 const middlewares    = require('../middlewares');
-const MarketOfferController = require('../controllers/market offer');
+const MarketOfferController = require('../controllers/marketOffer');
 
 
 router.get('/', MarketOfferController.list);
